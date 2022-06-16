@@ -12,6 +12,8 @@ namespace GitTestProject
 {
     public partial class Form1 : Form
     {
+        private string str = "TEST";
+
         public Form1()
         {
             InitializeComponent();
